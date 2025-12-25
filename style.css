@@ -1,11 +1,3 @@
-
 body{
-    text-align: center;
-    font-family:'Fantasy';
-    background: (214, 213, 219);
-    color: (5, 70, 5);
-}
-
-p{
-    font-size: larger;
+    color: green;
 }
