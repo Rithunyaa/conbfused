@@ -2,34 +2,34 @@ body {
     font-family: Andale Mono, monospace;
     line-height: 1.6;
     margin: 0;
-    padding: 20px;
+    padding: 20;
     color: #333;
-    max-width: 800px;
+    max-width: 800;
     margin: 0 auto;
     background-color: skyblue;
 }
 
 h1 {
     color: navy;
-    border-bottom: 2px solid #eee;
-    padding-bottom: 10px;
+    border-bottom: 2 solid #eee;
+    padding-bottom: 10;
 }
 
 img {
-    border-radius: 10px;
-    width: 400px;
-    height: 300px;
-    border: 5px dashed black
+    border-radius: 10;
+    width: 400;
+    height: 300;
+    border: 5 dashed black
 }
 
 .image_1  /* example using classes */ {
-    padding: 10px 20px; /* Space around the text */
+    padding: 10 20; /* Space around the text */
     background-color: #007bff; /* Background color of the button */
     color: white; /* Text color */
     text-decoration: none; /* Removes the default underline for links */
-    border-radius: 5px; /* Adds rounded corners */
+    border-radius: 5; /* Adds rounded corners */
     cursor: pointer; /* Changes cursor to a hand on hover */
-    font-size: 16px; /* Sets font size */
+    font-size: 16; /* Sets font size */
     text-align: center; /* Centers text horizontally */
     line-height: 1; /* Ensures text is vertically centered */
     
