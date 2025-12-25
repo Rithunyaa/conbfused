@@ -1,11 +1,11 @@
 img {
-    width: 300px;
+    width: 300;
 }
 body{
     text-align: center;
     font-family:'Fantasy';
-    background: rgb(214, 213, 219);
-    color: rgb(5, 70, 5);
+    background: (214, 213, 219);
+    color: (5, 70, 5);
 }
 
 p{
