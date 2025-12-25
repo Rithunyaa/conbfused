@@ -5,3 +5,7 @@ body{
     color: red;
     background-color: yellow;
 }
+
+h6{
+    test-align: left
+}
