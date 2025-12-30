@@ -29,7 +29,7 @@ img {
 /*This code is for links*/
 a{
     padding: 3px;
-    text-decoration: none; /*Gets rid of the line under links*/
+    text-decoration: none; /*Gets rid of the line under links*/ 
     background-color: rgb(183, 227, 241);
     color: rgb(21, 87, 21);
 }
