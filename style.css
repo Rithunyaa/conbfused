@@ -1,10 +1,11 @@
 body{
     text-align: center;
     font-family:'Fantasy';
-    color: darkolivegreen;
+    color: rgb(45, 59, 20);
     background-color: lightcyan;
-}
+}/* For the whole website and applies to everything unless otherwise stated*/
 
+/* This code is for the title*/
 p {
     font-size: 200;
     font-family:'Courier New', Courier, monospace;
@@ -12,16 +13,33 @@ p {
 
 h3{
     text-align: left;
+    background-color:rgb(160, 219, 230)
 }
+
 h4{
     text-align: left;
 }
 
+/*This code is for images*/
 img {
   border:3px solid black;
-  padding: 2px;
+  padding: 2px;/*Even if it is red, it is still valid and works*/
 }
 
+/*This code is for links*/
 a{
-    padding: 3px
+    padding: 3px;
+    text-decoration: none; /*Gets rid of the line under links*/
+    background-color: rgb(183, 227, 241);
+    color: rgb(21, 87, 21);
+}
+
+ul{
+    text-align: left;
+    font-size: larger;
+}
+
+div{
+    background-color:rgb(131, 208, 211);
+    font-size:xx-large;
 }
